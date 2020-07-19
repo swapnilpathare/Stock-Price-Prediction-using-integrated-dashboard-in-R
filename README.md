@@ -1,4 +1,4 @@
-# Stock-Price-Prediction-using-UI-in-R
+# Stock-Price-Prediction-using-integrated-dashboard-in-R
 
 Following mentioned are some of the key points related to the project which one should know before working on project:
        
